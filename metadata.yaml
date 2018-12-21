@@ -1,0 +1,31 @@
+_repo: The-Apothecary-in-Eighteenth-Century-Williamsburg-Being-an-Account-of-his-medical-and-chirurg__58490
+_version: 0.0.1
+alternative_title: The Apothecary in 18th-Century Williamsburg
+contributor:
+  contributor:
+    agent_name: Gill, Harold B.
+    gutenberg_agent_id: '49879'
+    url: http://www.gutenberg.org/2009/agents/49879
+creator:
+  author:
+    agent_name: Ford, Thomas K.
+    gutenberg_agent_id: '49248'
+    url: http://www.gutenberg.org/2009/agents/49248
+description: ''
+gutenberg_issued: '2018-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58490'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Williamsburg craft series
+subjects:
+- !lcsh 'Pharmacists -- Virginia -- Williamsburg'
+- !lcsh 'Pharmacy -- Virginia -- Williamsburg'
+- !lcc 'RS'
+- GITenberg
+title: "The Apothecary in Eighteenth-Century Williamsburg\r\nBeing an Account of his\
+  \ medical and chirurgical Services, as well as of his trade Practices as a Chymist"
+url: http://www.gutenberg.org/ebooks/58490
